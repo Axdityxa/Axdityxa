@@ -9,7 +9,7 @@ I love coding and Cloud!!
 * 🌍  I'm based in INDIA
 * ✉️  You can contact me at [as1657971@gmail.com](mailto:as1657971@gmail.com)
 * 🧠  I'm learning DSA & Cloud Technologies...
-* 🤝  I'm open to collaborating on Full stack and cloud projects
+* 🤝  I'm open to collaborating on Full-stack and cloud projects
 * ⚡  I'm secretly Spiderman... but don't tell anyone
 
 <a href="https://www.github.com/Axdityxa" target="_blank" rel="noreferrer"><img
