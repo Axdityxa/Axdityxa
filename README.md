@@ -10,11 +10,11 @@
 
 ###
 
-<h4 align="center">Connect with me:</h4>
+<h4 align="left">Connect with me:</h4>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/adityaasharmaa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="37" alt="linkedin logo"  />
   </a>
@@ -28,7 +28,7 @@
 
 ###
 
-<h4 align="center">Languages and Tools:</h4>
+<h4 align="left">Languages and Tools:</h4>
 
 ###
 
@@ -58,8 +58,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
