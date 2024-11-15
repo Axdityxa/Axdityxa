@@ -6,9 +6,18 @@
 
 ###
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer%2C;Full+Stack+Web+Developer%2C;Linux+System+Administrator.)](https://git.io/typing-svg)
 
 ###
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=500&pause=1000&color=E1E456&center=true&multiline=true&width=1100&height=500&lines=AAAAAA....DDDDD....IIIIIIII...TTTTTTTTT...YYYYYYYY....AAAAAA;AA..AA....DD..DD......II........TT.......YY........AA..AA;AAAAAA....DD..DD......II........TT.......YY........AAAAAA;AA..AA....DD..DD......II........TT.......YY........AA..AA;AA..AA....DDDDD....IIIIIIII....TT.......YY........AA..AA;----------------------------------------------------------------;SSSSSS....HHH..HHH....AAAAAA....RRRRRR....MMMM...MMMM....AAAAAA;SS........HH...HH....AA..AA....RR..RR....MM.MM.MM.MM....AA..AA;SSSSS.....HHHHHHH....AAAAAA....RRRRRR....MM.MM.MM.MM....AAAAAA;.....SS...HH...HH....AA..AA....RR..RR....MM.MM.MM.MM....AA..AA;SSSSSS....HH...HH....AA..AA....RR...RR...MM.MM.MM.MM....AA..AA" alt="Typing SVG" />
+</a>
+
+
+###
+
 
 <h4 align="left">About me:</h4>
 
