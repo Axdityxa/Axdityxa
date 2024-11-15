@@ -6,6 +6,10 @@
 
 ###
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer%2C;Full+Stack+Web+Developer%2C;Linux+System+Adminstrator.)](https://git.io/typing-svg)
+
+###
+
 <h4 align="left">About me:</h4>
 
 ###
