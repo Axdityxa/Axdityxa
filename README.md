@@ -5,6 +5,11 @@
 - Passionate about continuous learning and working together to create **impactful projects and products**
 - **Open Source Software**
 
+###
+
+---
+
+
 ### Frontend
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="margin-right: 10px;" />
@@ -45,6 +50,10 @@
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" style="margin-right: 10px;" />
 </div>
+
+###
+
+----
 
 ###
 
