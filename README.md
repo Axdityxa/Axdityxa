@@ -79,12 +79,12 @@
 <tr>
 <td width="70%">
 
-### Fun Facts
+### 🤯Fun Facts
 
-- Constantly learning new technologies!
-- Always working on new projects & open-source contributions
-- Passionate about building scalable applications
-- I love problem-solving & chess!
+- 🧠 Constantly learning new technologies!
+- 🛠 Always working on new projects & open-source contributions
+- 🎯 Passionate about building scalable applications
+- ⚡ I love problem-solving & chess!
 
 </td>
 <td width="30%">
