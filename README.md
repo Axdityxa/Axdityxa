@@ -5,24 +5,6 @@
 - Passionate about continuous learning and working together to create **impactful projects and products**
 - **Open Source Software**
 
-<h4 align="left">Connect with me:</h4>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/adityaasharmaa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="37" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/axdityxa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="51" height="37" alt="discord logo"  />
-  </a>
-  <a href="as1657971@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="37" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
 ### Frontend
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="margin-right: 10px;" />
@@ -62,6 +44,24 @@
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" style="margin-right: 10px;" />
+</div>
+
+###
+
+<h4 align="left">Connect with me:</h4>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/adityaasharmaa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="37" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/axdityxa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="51" height="37" alt="discord logo"  />
+  </a>
+  <a href="as1657971@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="37" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
