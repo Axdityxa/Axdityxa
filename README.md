@@ -23,11 +23,6 @@
 
 ###
 
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
 ### Frontend
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="margin-right: 10px;" />
@@ -71,7 +66,26 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Axdityxa/Axdityxa/output/snake.svg" alt="Snake animation" />
+<table>
+<tr>
+<td width="70%">
+
+### Fun Facts
+
+- Constantly learning new technologies!
+- Always working on new projects & open-source contributions
+- Passionate about building scalable applications
+- I love problem-solving & chess!
+
+</td>
+<td width="30%">
+<img width="250" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF"/>
+</td>
+</tr>
+</table>
 
 ###
 
+<img src="https://raw.githubusercontent.com/Axdityxa/Axdityxa/output/snake.svg" alt="Snake animation" />
+
+###
