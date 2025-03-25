@@ -3,7 +3,7 @@
 - I am a Full-stack developer
 - I currently work with **@ieltpath** - Building the Backend!
 - Passionate about continuous learning and working together to create **impactful projects and products**
-- **Open Source Software...**
+- **Open Source Software**
 
 ###
 
