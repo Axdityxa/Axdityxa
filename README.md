@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. I'm Aditya Sharma!</h1>
 
 - I am a Full-stack developer
-- I currently work with **@ieltpath** - Building the Backend!
+- I currently work with **@naturallink** - Working on frontend!
 - Passionate about continuous learning and working together to create **impactful projects and products**
 - **Open Source Software**
 
