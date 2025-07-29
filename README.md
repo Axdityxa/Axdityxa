@@ -98,5 +98,3 @@
 <img src="https://raw.githubusercontent.com/Axdityxa/Axdityxa/output/snake.svg" alt="Snake animation" />
 
 ###
-
-![Profile Visitors Count](https://profile-counter.glitch.me/axdityxa/count.svg)
