@@ -98,3 +98,5 @@
 <img src="https://raw.githubusercontent.com/Axdityxa/Axdityxa/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Axdityxa&label=Profile%20views&color=0e75b6&style=flat" alt="Axdityxa" /> </p>
