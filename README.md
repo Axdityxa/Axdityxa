@@ -68,7 +68,7 @@
   <a href="https://discord.com/users/axdityxa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="51" height="37" alt="discord logo"  />
   </a>
-  <a href="as1657971@gmail.com" target="_blank">
+  <a href="mailto:as1657971@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="37" alt="gmail logo"  />
   </a>
 </div>
