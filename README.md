@@ -2,8 +2,6 @@
 
 - I am a Full-stack developer
 - I currently work with **@naturallink** - Working on frontend!
-- Passionate about continuous learning and working together to create **impactful projects and products**
-- **Open Source Software**
 
 ###
 
