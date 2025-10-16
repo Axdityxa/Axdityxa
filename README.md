@@ -73,26 +73,6 @@
 
 ###
 
-<table>
-<tr>
-<td width="70%">
-
-### 🤯Fun Facts
-
-- 🧠 Constantly learning new technologies!
-- 🛠 Always working on new projects & open-source contributions
-- 🎯 Passionate about building scalable applications
-- ⚡ I love problem-solving & chess!
-
-</td>
-<td width="30%">
-<img width="250" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF"/>
-</td>
-</tr>
-</table>
-
-###
-
 <img src="https://raw.githubusercontent.com/Axdityxa/Axdityxa/output/snake.svg" alt="Snake animation" />
 
 ###
