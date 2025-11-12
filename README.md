@@ -55,24 +55,6 @@
 
 ###
 
-<h4 align="left">Connect with me:</h4>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/adityaasharmaa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="37" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/axdityxa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="51" height="37" alt="discord logo"  />
-  </a>
-  <a href="mailto:as1657971@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="37" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/Axdityxa/Axdityxa/output/snake.svg" alt="Snake animation" />
 
 ###
