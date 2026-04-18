@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. I'm Aditya Sharma!</h1>
 
 - I am a Full-stack developer
-- Currently work **@stealth startup** - Working on frontend!
+- Currently working **@stealth startup** - Working on frontend!
 
 ###
 
